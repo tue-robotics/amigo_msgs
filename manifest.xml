@@ -1,0 +1,15 @@
+<package>
+  <description brief="amigo_msgs">
+
+     amigo_msgs
+
+  </description>
+  <author>Sjoerd van den Dries (original: Nic Dirkx)</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/amigo_msgs</url>
+  <depend package="std_msgs"/>
+
+</package>
+
+
