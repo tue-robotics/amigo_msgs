@@ -11,7 +11,6 @@ add_message_files(
     spindle_setpoint.msg
     LaserScannerSignal.msg
     pera_status.msg
-    RGBLightCommand.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs)
